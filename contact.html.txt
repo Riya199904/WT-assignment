@@ -1,0 +1,21 @@
+<html>
+ <head>
+    <title>Contact</title>
+    <meta charset="utf-8"/>
+ </head>
+ 
+   
+ <body
+     <br><a href= "wt.html">Home</a>&nbsp;<a href="register.html">Registration</a>&nbsp;<a href="gallery.html">Gallery</a>&nbsp;<a href="https://web.sjcetpalai.ac.in/departments">About</a>&nbsp;<a href="https://web.sjcetpalai.ac.in/contact">Contact</a></br>
+     <h1>Contact Us</h1>
+
+    <p><br><font color="Blue"/>Email : digitizehealthcare@gmail.com</br>
+     <br>facebook : www.facebook.com/digitize healthcare</br>
+      twitter: Www.twitter.com/digitize
+
+       
+        </P>
+   
+ </body>
+     
+</html>
